@@ -12,4 +12,6 @@
 
 ## [Vegan](vegan/)
 
+## [Inspiration](inspiration/)
+
 
