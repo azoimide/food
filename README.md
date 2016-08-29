@@ -12,6 +12,12 @@
 
 ## [Vegan](vegan/)
 
+## [Spices](spices/)
+
 ## [Inspiration](inspiration/)
+
+## Recent
+
+- [Korma chicken](chicken/korma.md)
 
 
