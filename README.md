@@ -4,6 +4,8 @@
 
 ## [Pasta](pasta/)
 
+## [Pizza](pizza/)
+
 ## [Stews](stews/)
 
 ## [Miscellaneous foods](miscellaneous_foods/)
